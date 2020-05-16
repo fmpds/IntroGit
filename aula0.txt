@@ -1,0 +1,10 @@
+Primeira aula de git com professor *** 
+
+Aprendendo comandos basico sobre git 
+
+configurando usuario:
+git config --global user.name "Seu Nome"
+git config --global user.email seuemail@usp.br
+
+
+
